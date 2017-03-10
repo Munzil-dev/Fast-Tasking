@@ -1,0 +1,3 @@
+<?
+	include 'app/config.php';
+?>
