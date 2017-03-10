@@ -13,8 +13,8 @@ include '/autoload.php';
 				<p>Manager of your life</p>	
 			</div>
 			<div class="header_right">
-				<? if($user->status); 
-
+				<? if($user->status) 
+					echo "adasd";
 				?>
 			</div>
 		</header>
