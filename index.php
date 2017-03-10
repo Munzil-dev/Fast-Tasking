@@ -1,9 +1,15 @@
 <html>
 	<head>
 		<title>Fast Tasking</title>
+		<link rel="stylesheet" href="app/style.css">
 	</head>
 	<body>
-		<h1>Manager of your life</h1>
-		<h2>edit</h2>
+		<header class="content">
+			<h1>FastTasking.com</h1>
+			<p>Manager of your life</p>
+		</header>
+		<section class="content">
+			
+		</section>
 	</body>
 </html>
